@@ -1,1 +1,1 @@
-# nary-a-ninny
+# fintech nextJS
