@@ -1,0 +1,785 @@
+[00:00:02.939] Server  LOG      ✓ Ready in 2.6s
+[00:00:12.229] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:10.043] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@'
+> 1 | import '@'
+    | ^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:10.044] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@'
+> 1 | import '@'
+    | ^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:10.045] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@'
+> 1 | import '@'
+    | ^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:10.045] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@'
+> 1 | import '@'
+    | ^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:10.046] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@'
+> 1 | import '@'
+    | ^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:10.526] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@'
+> 1 | import '@'
+    | ^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:12.937] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app'
+> 1 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:12.938] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app'
+> 1 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:12.939] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app'
+> 1 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:12.940] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app'
+> 1 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:12.941] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app'
+> 1 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:13.524] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app'
+> 1 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:15.445] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui'
+> 1 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:15.446] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui'
+> 1 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:15.446] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui'
+> 1 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:15.447] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui'
+> 1 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:15.448] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui'
+> 1 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:16.525] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui'
+> 1 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:21.955] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui/'
+> 1 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:21.956] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui/'
+> 1 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:21.957] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui/'
+> 1 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:21.957] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui/'
+> 1 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:21.958] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui/'
+> 1 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:22.526] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui/'
+> 1 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:26.504] Server  LOG      ✓ Compiled in 878ms
+[00:04:26.815] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:20.241] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:13.227] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:19.199] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:23.092] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:30.525] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:6:1
+Parsing ecmascript source code failed
+  4 | import 
+  5 |
+> 6 | export default function Page() {
+    | ^^^^^^
+  7 |   return (
+  8 |     <main className="flex min-h-screen flex-col p-6">
+  9 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+[00:15:40.074] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@'
+    | ^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:40.075] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@'
+    | ^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:40.075] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@'
+    | ^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:40.076] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@'
+    | ^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:40.076] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@'
+    | ^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:40.076] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@'
+    | ^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:40.525] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@'
+    | ^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:43.276] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:43.277] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:43.278] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:43.279] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:43.280] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:43.281] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:43.525] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app'
+    | ^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app' inside of [project]/03-perso-projects/fintech-nextjs
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:46.596] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.597] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.598] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.598] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.599] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.599] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:47.526] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui'
+    | ^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui' inside of [project]/03-perso-projects/fintech-nextjs
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:47.726] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui/'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:47.727] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui/'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:47.728] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui/'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:47.729] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui/'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:47.730] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui/'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:47.732] Server  ERROR    ⨯ ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui/'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:48.526] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:4:1
+Module not found: Can't resolve '@/app/ui/'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import '@/app/ui/'
+    | ^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+Import map: aliased to relative './app/ui/' inside of [project]/03-perso-projects/fintech-nextjs
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:24.526] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:15:11
+Parsing ecmascript source code failed
+  13 |         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
+  14 |           <
+> 15 |           {/* <div className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black" /> */}
+     |           ^
+  16 |           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal`}>
+  17 |             <strong>Welcome to Acme.</strong> This is the example for the{' '}
+  18 |             <a href="https://nextjs.org/learn/" className="text-blue-500">
+
+Expected '</', got '{'
+[00:16:53.525] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? classname className
+[00:17:17.525] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:36:1
+Parsing ecmascript source code failed
+  34 |     </main>
+  35 |   );
+> 36 | }
+     | ^
+  37 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
