@@ -1,2 +1,137 @@
-[00:00:02.874] Server  LOG      ✓ Ready in 2.6s
-[00:00:06.639] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:01.254] Server  LOG      ✓ Ready in 927ms
+[00:05:55.170] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:42:9
+Parsing ecmascript source code failed
+  40 |           />
+  41 |           <
+> 42 |         </div>
+     |         ^
+  43 |       </div>
+  44 |     </main>
+  45 |   );
+
+Expression expected
+[00:05:55.170] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:42:10
+Parsing ecmascript source code failed
+  40 |           />
+  41 |           <
+> 42 |         </div>
+     |          ^^^^^
+  43 |       </div>
+  44 |     </main>
+  45 |   );
+
+Unterminated regexp literal
+[00:06:00.164] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:42:9
+Parsing ecmascript source code failed
+  40 |           />
+  41 |           </>
+> 42 |         </div>
+     |         ^
+  43 |       </div>
+  44 |     </main>
+  45 |   );
+
+Expression expected
+[00:06:00.165] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:42:10
+Parsing ecmascript source code failed
+  40 |           />
+  41 |           </>
+> 42 |         </div>
+     |          ^^^^^
+  43 |       </div>
+  44 |     </main>
+  45 |   );
+
+Unterminated regexp literal
+[00:06:01.165] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:42:14
+Parsing ecmascript source code failed
+  40 |           />
+  41 |           <
+> 42 |             />
+     |              ^
+  43 |         </div>
+  44 |       </div>
+  45 |     </main>
+
+Expression expected
+[00:06:03.164] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:42:12
+Parsing ecmascript source code failed
+  40 |           />
+  41 |           <
+> 42 |           />
+     |            ^
+  43 |         </div>
+  44 |       </div>
+  45 |     </main>
+
+Expression expected
+[00:06:07.165] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:06:07.165] Browser ERROR   Image is missing required "src" property: <img>
+[00:06:07.165] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:06:07.165] Browser ERROR   Image is missing required "src" property: <img>
+[00:06:07.165] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:06:16.164] Browser ERROR   uncaughtError: Error: Image with src "/" is missing required "width" property.
+[00:06:20.844] Server  ERROR    ⨯ Error: Image with src "/hero-mobile" is missing required "width" property.
+[00:06:22.171] Browser ERROR   uncaughtError: Error: Image with src "/hero-mobile" is missing required "width" property.
+[00:06:24.456] Server  ERROR    ⨯ Error: Image with src "/hero-mobile.png" is missing required "width" property.
+[00:06:25.166] Browser ERROR   uncaughtError: Error: Image with src "/hero-mobile.png" is missing required "width" property.
+[00:06:28.184] Server  ERROR    ⨯ Error: Image with src "/hero-mobile.png" has invalid "width" property. Expected a numeric value in pixels but received "true".
+[00:06:29.172] Browser ERROR   uncaughtError: Error: Image with src "/hero-mobile.png" has invalid "width" property. Expected a numeric value in pixels but received "true".
+[00:06:32.164] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:44:12
+Parsing ecmascript source code failed
+  42 |             src='/hero-mobile.png'
+  43 |             width=
+> 44 |           />
+     |            ^
+  45 |         </div>
+  46 |       </div>
+  47 |     </main>
+
+Expression expected
+[00:06:34.164] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:44:12
+Parsing ecmascript source code failed
+  42 |             src='/hero-mobile.png'
+  43 |             width={}
+> 44 |           />
+     |            ^
+  45 |         </div>
+  46 |       </div>
+  47 |     </main>
+
+Expression expected
+[00:06:34.867] Server  ERROR    ⨯ Error: Image with src "/hero-mobile.png" is missing required "height" property.
+[00:06:36.163] Browser ERROR   uncaughtError: Error: Image with src "/hero-mobile.png" is missing required "height" property.
+[00:06:39.165] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:45:12
+Parsing ecmascript source code failed
+  43 |             width={560}
+  44 |             height={}
+> 45 |           />
+     |            ^
+  46 |         </div>
+  47 |       </div>
+  48 |     </main>
+
+Expression expected
+[00:07:02.165] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:07:07.163] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:46:12
+Parsing ecmascript source code failed
+  44 |             height={620}
+  45 |             className=
+> 46 |           />
+     |            ^
+  47 |         </div>
+  48 |       </div>
+  49 |     </main>
+
+Expression expected
+[00:07:18.165] Browser ERROR   ./03-perso-projects/fintech-nextjs/app/page.tsx:47:12
+Parsing ecmascript source code failed
+  45 |             className='hidden'
+  46 |             alt=
+> 47 |           />
+     |            ^
+  48 |         </div>
+  49 |       </div>
+  50 |     </main>
+
+Expression expected
