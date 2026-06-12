@@ -72,6 +72,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$f
 var __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/03-perso-projects/fintech-nextjs/node_modules/.pnpm/next@16.0.10_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/client/app-dir/link.react-server.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$app$2f$ui$2f$fonts$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/03-perso-projects/fintech-nextjs/app/ui/fonts.ts [app-rsc] (ecmascript) <locals>");
 var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$lusitana_99639ffe$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__lusitana$3e$__ = __turbopack_context__.i("[next]/internal/font/google/lusitana_99639ffe.js [app-rsc] (ecmascript) <export default as lusitana>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/03-perso-projects/fintech-nextjs/node_modules/.pnpm/next@16.0.10_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/image.js [app-rsc] (ecmascript)");
+;
 ;
 ;
 ;
@@ -85,12 +87,12 @@ function Page() {
                 className: "flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$app$2f$ui$2f$acme$2d$logo$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                     fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                    lineNumber: 11,
+                    lineNumber: 12,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                lineNumber: 10,
+                lineNumber: 11,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -103,7 +105,7 @@ function Page() {
                                 className: "relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"
                             }, void 0, false, {
                                 fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                                lineNumber: 16,
+                                lineNumber: 17,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -113,7 +115,7 @@ function Page() {
                                         children: "Welcome to Acme."
                                     }, void 0, false, {
                                         fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                                        lineNumber: 18,
+                                        lineNumber: 19,
                                         columnNumber: 13
                                     }, this),
                                     " This is the example for the",
@@ -124,14 +126,14 @@ function Page() {
                                         children: "Next.js Learn Course"
                                     }, void 0, false, {
                                         fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                                        lineNumber: 19,
+                                        lineNumber: 20,
                                         columnNumber: 13
                                     }, this),
                                     ", brought to you by Vercel."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                                lineNumber: 17,
+                                lineNumber: 18,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -142,7 +144,7 @@ function Page() {
                                         children: "Log in"
                                     }, void 0, false, {
                                         fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                                        lineNumber: 28,
+                                        lineNumber: 29,
                                         columnNumber: 13
                                     }, this),
                                     " ",
@@ -150,38 +152,62 @@ function Page() {
                                         className: "w-5 md:w-6"
                                     }, void 0, false, {
                                         fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                                        lineNumber: 28,
+                                        lineNumber: 29,
                                         columnNumber: 33
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                                lineNumber: 24,
+                                lineNumber: 25,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                        lineNumber: 14,
+                        lineNumber: 15,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12"
-                    }, void 0, false, {
+                        className: "flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                src: "/hero-desktop.png",
+                                width: 1000,
+                                height: 760,
+                                className: "hidden md:block",
+                                alt: "Screenshots of the dashboard project showing desktop version"
+                            }, void 0, false, {
+                                fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
+                                lineNumber: 34,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$03$2d$perso$2d$projects$2f$fintech$2d$nextjs$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                src: "/hero-mobile.png",
+                                width: 560,
+                                height: 620,
+                                className: "block md:hidden",
+                                alt: "Screenshots of the dashboard project showing mobile version"
+                            }, void 0, false, {
+                                fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
+                                lineNumber: 41,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                        lineNumber: 31,
+                        lineNumber: 32,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-                lineNumber: 13,
+                lineNumber: 14,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/03-perso-projects/fintech-nextjs/app/page.tsx",
-        lineNumber: 9,
+        lineNumber: 10,
         columnNumber: 5
     }, this);
 }
