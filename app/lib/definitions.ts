@@ -86,3 +86,10 @@ export type InvoiceForm = {
   amount: number;
   status: 'pending' | 'paid';
 };
+
+// export type State = {
+//   errors: Record<string, string[]>;
+//   message: string | null;
+// }
+
+export type State = any;
